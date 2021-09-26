@@ -2,7 +2,7 @@
 
 # HOMEPAGE
 
-<img src='home.png'/>
+<img src='images/home.png'/>
 
 ### :link: Learned from [Dev Ed](https://youtu.be/O7WbVj5apxU)
 
