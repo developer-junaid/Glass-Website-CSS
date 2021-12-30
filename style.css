@@ -81,6 +81,11 @@ main {
   text-align: center;
 }
 
+.user > img {
+  width: 80px;
+  border-radius: 50%;
+}
+
 .dashboard {
   flex: 1;
   display: flex;
